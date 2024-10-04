@@ -20,5 +20,5 @@ Como ajuda, estou realizando o curso de **Java Orientado a Objetos** na Udemy, m
 10. [Retângulo - Aula 70](https://github.com/siiqueiira/Java/blob/main/Secao8/Retangulo_aula70.java)
 11. [Aula 67](https://github.com/siiqueiira/Java/blob/main/Secao8/aula67.java)
 12. [Aula 70 - Parte 1](https://github.com/siiqueiira/Java/blob/main/Secao8/aula70_1.java)
-13. [Aula 70 - Parte 2](https://github.com/siiqueiira/Java/blob/main/Secao8/aula70_2.java)
+13. [Cálculo Salário Funcionário](https://github.com/siiqueiira/Java/blob/main/Secao8/aula70_2.java)
 14. [Aula 70 - Parte 3](https://github.com/siiqueiira/Java/blob/main/Secao8/aula70_3.java)
